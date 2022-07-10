@@ -1,7 +1,7 @@
 #!/bin/sh
 ##setup command=wget https://raw.githubusercontent.com/emil237/RaedQuickSignal/main/installer.sh -O - | /bin/sh
 #################################################################################
-version=14.6
+version=14.7
 
 BACKUPPATH=/tmp/Backup
 PLUGINPICONTMPPATH=/tmp/RaedQuickSignal
